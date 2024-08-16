@@ -1,4 +1,4 @@
-<img src="https://www.questionpro.com/blog/wp-content/uploads/2018/02/Customer-Churn.jpg"  width="800" height="800">
+<img src="https://www.questionpro.com/blog/wp-content/uploads/2018/02/Customer-Churn.jpg"  width="800" height="400">
 
 What is Churn Analysis?
 Churn analysis is a critical process used by businesses to understand the rate at which customers stop doing business with them, also known as "churn." The primary goal of churn analysis is to identify patterns and factors that lead to customer attrition, enabling companies to take proactive measures to retain customers and reduce churn rates.
